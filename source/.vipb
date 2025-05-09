@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2008-06-30 18:33:27" Modified_Date="2025-05-08 10:27:06" Creator="jim.kring" Comments="" ID="235a941e45f6f6cbaf9147edc2d1a057">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2008-06-30 18:33:27" Modified_Date="2025-05-09 16:51:35" Creator="jim.kring" Comments="" ID="3c98429c0aa4c39ac582159315f8412b">
   <Library_General_Settings>
     <Package_File_Name>jki_lib_tcp_server</Package_File_Name>
-    <Library_Version>5.0.0.8</Library_Version>
+    <Library_Version>5.0.1.8</Library_Version>
     <Auto_Increment_Version>true</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
@@ -316,7 +316,7 @@
         <Path>_Public\TCP Disconnect All Clients.vi</Path>
         <VI_Title>TCP Disconnect All Clients.vi</VI_Title>
       </Items_Data>
-      <GUID>BB62688AFF791200257B949BB1D015D0</GUID>
+      <GUID>0C9623103BFD33AB584D228A5C7C70A5</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
